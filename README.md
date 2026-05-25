@@ -38,3 +38,13 @@ Password : user123
 
 
 
+Project Proposal- the proposal document is inside of the projectproposal.
+project title: OnlineCanteen
+
+
+Admin Access
+
+- Email : admin@example.com
+- Password : password
+
+
